@@ -1,4 +1,4 @@
 # demo
 This is my demo repository.
 <br>
-Author-Janhavi Rajurkar
+Author-Janhavi (Raju)
